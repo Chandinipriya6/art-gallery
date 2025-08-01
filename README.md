@@ -30,59 +30,14 @@ art-gallery/
 │── README.md # Project documentation
 │── package.json
 
-bash
-Copy
-Edit
 
-## 🚀 Installation & Setup
 ### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/your-username/art-gallery.git
-cd art-gallery
-2️⃣ Install dependencies
-For backend:
 
-bash
-Copy
-Edit
-cd backend
-npm install
-For frontend:
-
-bash
-Copy
-Edit
-cd frontend
-npm install
-3️⃣ Setup environment variables
-Create .env file in both backend and frontend folders:
-
-ini
-Copy
-Edit
-# Backend
-PORT=5000
-MONGO_URI=your_database_url
-JWT_SECRET=your_secret_key
-
-# Frontend
-VITE_API_URL=http://localhost:5000
-4️⃣ Run the project
-Backend:
-
-bash
-Copy
-Edit
-cd backend
-npm start
-Frontend:
-
-bash
-Copy
-Edit
-cd frontend
-npm run dev
-Now open http://localhost:5173 in your browser.
+git clone https://github.com/Chandinipriya6/art-gallery
 
 📸 Screenshots
-Add some screenshots of your project here
+<img width="1904" height="914" alt="image" src="https://github.com/user-attachments/assets/da91908f-98bb-403a-8f1f-241017d66eda" />
+<img width="1918" height="964" alt="image" src="https://github.com/user-attachments/assets/15e53316-56d9-447b-ab67-a1abb2ae5f21" />
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/1d574d73-7a86-4c32-afca-0b1c07c7dbec" />
+
+
